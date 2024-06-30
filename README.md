@@ -26,11 +26,7 @@ Defined using the def keyword, functions allow you to encapsulate code for reuse
    - *Tuples*: Similar to lists but immutable (()).
    - *Dictionaries*: Key-value pairs ({key: value}), unordered.
 
-# 7. *Modules and Packages*: 
-
-Python's extensive standard library includes modules and packages for various functionalities. You can also install third-party packages using tools like pip.
-
-# 8. *Input and Output*: 
+# 7. *Input and Output*: 
    - *Input*: input() function reads input from the user as a string.
    - *Output*: print() function outputs data to the console.
 
